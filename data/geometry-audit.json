@@ -1,0 +1,1570 @@
+[
+  {
+    "id": "jp",
+    "name": "日本",
+    "geometry": "Japan",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "kr",
+    "name": "韓国",
+    "geometry": "South Korea",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "cn",
+    "name": "中国",
+    "geometry": "China",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "mn",
+    "name": "モンゴル",
+    "geometry": "Mongolia",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "id",
+    "name": "インドネシア",
+    "geometry": "Indonesia",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "kh",
+    "name": "カンボジア",
+    "geometry": "Cambodia",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "sg",
+    "name": "シンガポール",
+    "geometry": "Singapore",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "th",
+    "name": "タイ",
+    "geometry": "Thailand",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "tl",
+    "name": "東ティモール",
+    "geometry": "East Timor",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ph",
+    "name": "フィリピン",
+    "geometry": "Philippines",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "bn",
+    "name": "ブルネイ",
+    "geometry": "Brunei",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "vn",
+    "name": "ベトナム",
+    "geometry": "Vietnam",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "my",
+    "name": "マレーシア",
+    "geometry": "Malaysia",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "mm",
+    "name": "ミャンマー",
+    "geometry": "Myanmar",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "la",
+    "name": "ラオス",
+    "geometry": "Laos",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "af",
+    "name": "アフガニスタン",
+    "geometry": "Afghanistan",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "in",
+    "name": "インド",
+    "geometry": "India",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "lk",
+    "name": "スリランカ",
+    "geometry": "Sri Lanka",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "np",
+    "name": "ネパール",
+    "geometry": "Nepal",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "pk",
+    "name": "パキスタン",
+    "geometry": "Pakistan",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "bd",
+    "name": "バングラデシュ",
+    "geometry": "Bangladesh",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "bt",
+    "name": "ブータン",
+    "geometry": "Bhutan",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "mv",
+    "name": "モルディブ",
+    "geometry": "Maldives",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ir",
+    "name": "イラン",
+    "geometry": "Iran",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "uz",
+    "name": "ウズベキスタン",
+    "geometry": "Uzbekistan",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "kz",
+    "name": "カザフスタン",
+    "geometry": "Kazakhstan",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "kg",
+    "name": "キルギス",
+    "geometry": "Kyrgyzstan",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "tj",
+    "name": "タジキスタン",
+    "geometry": "Tajikistan",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "tm",
+    "name": "トルクメニスタン",
+    "geometry": "Turkmenistan",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "az",
+    "name": "アゼルバイジャン",
+    "geometry": "Azerbaijan",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ae",
+    "name": "アラブ首長国連邦",
+    "geometry": "United Arab Emirates",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "am",
+    "name": "アルメニア",
+    "geometry": "Armenia",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ye",
+    "name": "イエメン",
+    "geometry": "Yemen",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "il",
+    "name": "イスラエル",
+    "geometry": "Israel",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "iq",
+    "name": "イラク",
+    "geometry": "Iraq",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "om",
+    "name": "オマーン",
+    "geometry": "Oman",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "qa",
+    "name": "カタール",
+    "geometry": "Qatar",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "cy",
+    "name": "キプロス",
+    "geometry": "Cyprus",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "kw",
+    "name": "クウェート",
+    "geometry": "Kuwait",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "sa",
+    "name": "サウジアラビア",
+    "geometry": "Saudi Arabia",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ge",
+    "name": "ジョージア",
+    "geometry": "Georgia",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "sy",
+    "name": "シリア",
+    "geometry": "Syria",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "tr",
+    "name": "トルコ",
+    "geometry": "Turkey",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "bh",
+    "name": "バーレーン",
+    "geometry": "Bahrain",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "jo",
+    "name": "ヨルダン",
+    "geometry": "Jordan",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "lb",
+    "name": "レバノン",
+    "geometry": "Lebanon",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "is",
+    "name": "アイスランド",
+    "geometry": "Iceland",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ie",
+    "name": "アイルランド",
+    "geometry": "Ireland",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "al",
+    "name": "アルバニア",
+    "geometry": "Albania",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ad",
+    "name": "アンドラ",
+    "geometry": "Andorra",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "gb",
+    "name": "イギリス",
+    "geometry": "United Kingdom",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "it",
+    "name": "イタリア",
+    "geometry": "Italy",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ua",
+    "name": "ウクライナ",
+    "geometry": "Ukraine",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ee",
+    "name": "エストニア",
+    "geometry": "Estonia",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "at",
+    "name": "オーストリア",
+    "geometry": "Austria",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "nl",
+    "name": "オランダ",
+    "geometry": "Netherlands",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "mk",
+    "name": "北マケドニア",
+    "geometry": "North Macedonia",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "gr",
+    "name": "ギリシャ",
+    "geometry": "Greece",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "hr",
+    "name": "クロアチア",
+    "geometry": "Croatia",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "xk",
+    "name": "コソボ",
+    "geometry": "Kosovo",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "sm",
+    "name": "サンマリノ",
+    "geometry": "San Marino",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ch",
+    "name": "スイス",
+    "geometry": "Switzerland",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "se",
+    "name": "スウェーデン",
+    "geometry": "Sweden",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "es",
+    "name": "スペイン",
+    "geometry": "Spain",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "sk",
+    "name": "スロバキア",
+    "geometry": "Slovakia",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "si",
+    "name": "スロベニア",
+    "geometry": "Slovenia",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "rs",
+    "name": "セルビア",
+    "geometry": "Republic of Serbia",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "cz",
+    "name": "チェコ",
+    "geometry": "Czechia",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "dk",
+    "name": "デンマーク",
+    "geometry": "Denmark",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "de",
+    "name": "ドイツ",
+    "geometry": "Germany",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "no",
+    "name": "ノルウェー",
+    "geometry": "Norway",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "va",
+    "name": "バチカン",
+    "geometry": "Vatican",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "hu",
+    "name": "ハンガリー",
+    "geometry": "Hungary",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "fi",
+    "name": "フィンランド",
+    "geometry": "Finland",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "fr",
+    "name": "フランス",
+    "geometry": "France",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "bg",
+    "name": "ブルガリア",
+    "geometry": "Bulgaria",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "by",
+    "name": "ベラルーシ",
+    "geometry": "Belarus",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "be",
+    "name": "ベルギー",
+    "geometry": "Belgium",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "pl",
+    "name": "ポーランド",
+    "geometry": "Poland",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ba",
+    "name": "ボスニア・ヘルツェゴビナ",
+    "geometry": "Bosnia and Herzegovina",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "pt",
+    "name": "ポルトガル",
+    "geometry": "Portugal",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "mt",
+    "name": "マルタ",
+    "geometry": "Malta",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "mc",
+    "name": "モナコ",
+    "geometry": "Monaco",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "md",
+    "name": "モルドバ",
+    "geometry": "Moldova",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "me",
+    "name": "モンテネグロ",
+    "geometry": "Montenegro",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "lv",
+    "name": "ラトビア",
+    "geometry": "Latvia",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "lt",
+    "name": "リトアニア",
+    "geometry": "Lithuania",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "li",
+    "name": "リヒテンシュタイン",
+    "geometry": "Liechtenstein",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ro",
+    "name": "ルーマニア",
+    "geometry": "Romania",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "lu",
+    "name": "ルクセンブルク",
+    "geometry": "Luxembourg",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ru",
+    "name": "ロシア",
+    "geometry": "Russia",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "dz",
+    "name": "アルジェリア",
+    "geometry": "Algeria",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ao",
+    "name": "アンゴラ",
+    "geometry": "Angola",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ug",
+    "name": "ウガンダ",
+    "geometry": "Uganda",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "eg",
+    "name": "エジプト",
+    "geometry": "Egypt",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "sz",
+    "name": "エスワティニ",
+    "geometry": "eSwatini",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "et",
+    "name": "エチオピア",
+    "geometry": "Ethiopia",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "er",
+    "name": "エリトリア",
+    "geometry": "Eritrea",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "gh",
+    "name": "ガーナ",
+    "geometry": "Ghana",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "cv",
+    "name": "カーボベルデ",
+    "geometry": "Cabo Verde",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ga",
+    "name": "ガボン",
+    "geometry": "Gabon",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "cm",
+    "name": "カメルーン",
+    "geometry": "Cameroon",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "gm",
+    "name": "ガンビア",
+    "geometry": "Gambia",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "gn",
+    "name": "ギニア",
+    "geometry": "Guinea",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "gw",
+    "name": "ギニアビサウ",
+    "geometry": "Guinea-Bissau",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ke",
+    "name": "ケニア",
+    "geometry": "Kenya",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ci",
+    "name": "コートジボワール",
+    "geometry": "Ivory Coast",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "km",
+    "name": "コモロ",
+    "geometry": "Comoros",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "cg",
+    "name": "コンゴ共和国",
+    "geometry": "Republic of the Congo",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "cd",
+    "name": "コンゴ民主共和国",
+    "geometry": "Democratic Republic of the Congo",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "st",
+    "name": "サントメ・プリンシペ",
+    "geometry": "São Tomé and Principe",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "zm",
+    "name": "ザンビア",
+    "geometry": "Zambia",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "sl",
+    "name": "シエラレオネ",
+    "geometry": "Sierra Leone",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "dj",
+    "name": "ジブチ",
+    "geometry": "Djibouti",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "zw",
+    "name": "ジンバブエ",
+    "geometry": "Zimbabwe",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "sd",
+    "name": "スーダン",
+    "geometry": "Sudan",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "sc",
+    "name": "セーシェル",
+    "geometry": "Seychelles",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "gq",
+    "name": "赤道ギニア",
+    "geometry": "Equatorial Guinea",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "sn",
+    "name": "セネガル",
+    "geometry": "Senegal",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "so",
+    "name": "ソマリア",
+    "geometry": "Somalia",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "tz",
+    "name": "タンザニア",
+    "geometry": "United Republic of Tanzania",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "td",
+    "name": "チャド",
+    "geometry": "Chad",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "cf",
+    "name": "中央アフリカ共和国",
+    "geometry": "Central African Republic",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "tn",
+    "name": "チュニジア",
+    "geometry": "Tunisia",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "tg",
+    "name": "トーゴ",
+    "geometry": "Togo",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ng",
+    "name": "ナイジェリア",
+    "geometry": "Nigeria",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "na",
+    "name": "ナミビア",
+    "geometry": "Namibia",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ne",
+    "name": "ニジェール",
+    "geometry": "Niger",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "bf",
+    "name": "ブルキナファソ",
+    "geometry": "Burkina Faso",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "bi",
+    "name": "ブルンジ",
+    "geometry": "Burundi",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "bj",
+    "name": "ベナン",
+    "geometry": "Benin",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "bw",
+    "name": "ボツワナ",
+    "geometry": "Botswana",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "mg",
+    "name": "マダガスカル",
+    "geometry": "Madagascar",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "mw",
+    "name": "マラウイ",
+    "geometry": "Malawi",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ml",
+    "name": "マリ",
+    "geometry": "Mali",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "za",
+    "name": "南アフリカ",
+    "geometry": "South Africa",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ss",
+    "name": "南スーダン",
+    "geometry": "South Sudan",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "mu",
+    "name": "モーリシャス",
+    "geometry": "Mauritius",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "mr",
+    "name": "モーリタニア",
+    "geometry": "Mauritania",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "mz",
+    "name": "モザンビーク",
+    "geometry": "Mozambique",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ma",
+    "name": "モロッコ",
+    "geometry": "Morocco",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ly",
+    "name": "リビア",
+    "geometry": "Libya",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "lr",
+    "name": "リベリア",
+    "geometry": "Liberia",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "rw",
+    "name": "ルワンダ",
+    "geometry": "Rwanda",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ls",
+    "name": "レソト",
+    "geometry": "Lesotho",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "us",
+    "name": "アメリカ",
+    "geometry": "United States of America",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ca",
+    "name": "カナダ",
+    "geometry": "Canada",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "mx",
+    "name": "メキシコ",
+    "geometry": "Mexico",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ag",
+    "name": "アンティグア・バーブーダ",
+    "geometry": "Antigua and Barbuda",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "sv",
+    "name": "エルサルバドル",
+    "geometry": "El Salvador",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "cu",
+    "name": "キューバ",
+    "geometry": "Cuba",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "gt",
+    "name": "グアテマラ",
+    "geometry": "Guatemala",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "gd",
+    "name": "グレナダ",
+    "geometry": "Grenada",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "cr",
+    "name": "コスタリカ",
+    "geometry": "Costa Rica",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "jm",
+    "name": "ジャマイカ",
+    "geometry": "Jamaica",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "kn",
+    "name": "セントクリストファー・ネービス",
+    "geometry": "Saint Kitts and Nevis",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "vc",
+    "name": "セントビンセント及びグレナディーン諸島",
+    "geometry": "Saint Vincent and the Grenadines",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "lc",
+    "name": "セントルシア",
+    "geometry": "Saint Lucia",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "dm",
+    "name": "ドミニカ国",
+    "geometry": "Dominica",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "do",
+    "name": "ドミニカ共和国",
+    "geometry": "Dominican Republic",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "tt",
+    "name": "トリニダード・トバゴ",
+    "geometry": "Trinidad and Tobago",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ni",
+    "name": "ニカラグア",
+    "geometry": "Nicaragua",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ht",
+    "name": "ハイチ",
+    "geometry": "Haiti",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "pa",
+    "name": "パナマ",
+    "geometry": "Panama",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "bs",
+    "name": "バハマ",
+    "geometry": "The Bahamas",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "bb",
+    "name": "バルバドス",
+    "geometry": "Barbados",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "bz",
+    "name": "ベリーズ",
+    "geometry": "Belize",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "hn",
+    "name": "ホンジュラス",
+    "geometry": "Honduras",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ar",
+    "name": "アルゼンチン",
+    "geometry": "Argentina",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "uy",
+    "name": "ウルグアイ",
+    "geometry": "Uruguay",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ec",
+    "name": "エクアドル",
+    "geometry": "Ecuador",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "gy",
+    "name": "ガイアナ",
+    "geometry": "Guyana",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "co",
+    "name": "コロンビア",
+    "geometry": "Colombia",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "sr",
+    "name": "スリナム",
+    "geometry": "Suriname",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "cl",
+    "name": "チリ",
+    "geometry": "Chile",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "py",
+    "name": "パラグアイ",
+    "geometry": "Paraguay",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "br",
+    "name": "ブラジル",
+    "geometry": "Brazil",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ve",
+    "name": "ベネズエラ",
+    "geometry": "Venezuela",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "pe",
+    "name": "ペルー",
+    "geometry": "Peru",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "bo",
+    "name": "ボリビア",
+    "geometry": "Bolivia",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "au",
+    "name": "オーストラリア",
+    "geometry": "Australia",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ki",
+    "name": "キリバス",
+    "geometry": "Kiribati",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ck",
+    "name": "クック諸島",
+    "geometry": "Cook Islands",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "ws",
+    "name": "サモア",
+    "geometry": "Samoa",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "sb",
+    "name": "ソロモン諸島",
+    "geometry": "Solomon Islands",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "tv",
+    "name": "ツバル",
+    "geometry": "Tuvalu",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "to",
+    "name": "トンガ",
+    "geometry": "Tonga",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "nr",
+    "name": "ナウル",
+    "geometry": "Nauru",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "nu",
+    "name": "ニウエ",
+    "geometry": "Niue",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "nz",
+    "name": "ニュージーランド",
+    "geometry": "New Zealand",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "vu",
+    "name": "バヌアツ",
+    "geometry": "Vanuatu",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "pg",
+    "name": "パプアニューギニア",
+    "geometry": "Papua New Guinea",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "pw",
+    "name": "パラオ",
+    "geometry": "Palau",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "fj",
+    "name": "フィジー",
+    "geometry": "Fiji",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "mh",
+    "name": "マーシャル諸島",
+    "geometry": "Marshall Islands",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  },
+  {
+    "id": "fm",
+    "name": "ミクロネシア連邦",
+    "geometry": "Federated States of Micronesia",
+    "focused": true,
+    "focus": "largest landmass",
+    "review": "機械的対応確認済み／公式図との目視照合は公開前に実施"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-25",
+  "flags": {
+    "source": "https://github.com/hampusborgos/country-flags",
+    "civilVariants": {
+      "date": "2026-09-26",
+      "ids": [
+        "cr",
+        "pe"
+      ],
+      "notice": "Only Costa Rica and Peru use civil variants without coats of arms. All other flag assets retain their original versions."
+    },
+    "notice": "Source repository states flags are public domain; educational use, source retained. Individual official appearance review is pending.",
+    "sha256": "1780ad98c95d9436620967d4ab3e88919efd0a0deba8e773d2eeb0d4f5c5fd88"
+  },
+  "map": {
+    "source": "https://github.com/nvkelso/natural-earth-vector",
+    "license": "Public domain",
+    "boundaries": "Natural Earth default de facto boundaries; review pending before publication",
+    "sha256": "239eec57ac17f100a11e2536cffc56752c318b50ae765b0918ff7aab4ce8f255"
+  }
+}
